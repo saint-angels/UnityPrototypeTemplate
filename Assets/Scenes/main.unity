@@ -678,7 +678,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   localCacheManager: {fileID: 2093567685}
-  uiManager: {fileID: 0}
+  uiManager: {fileID: 1142990875}
 --- !u!4 &2093567684
 Transform:
   m_ObjectHideFlags: 0
